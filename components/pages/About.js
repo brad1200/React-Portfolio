@@ -3,14 +3,9 @@ import React from 'react';
 export default function About() {
     return (
         <div>
-            <h1>About Page</h1>
+            <h1>About Me</h1>
             <p>
-                Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-                Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-                mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-                lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-                imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-                in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+                My name is Brad Carlson. I am 22 years young! I live in Kansas where I was born and raised. Playing video games and working out in my free time is what I enjoy to do to pass time. Something interesting about me is that I work at a meat market which is a very different job that I never expected to do but I have learned a lot from.
             </p>
         </div>
     );
